@@ -1,0 +1,102 @@
+.div1{
+    background-color: rgb(255, 255, 255);
+    width: 1745px;
+    height: 840px;
+    position: absolute
+}
+.div2{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 560px;
+    justify-content:space-between;
+    margin-left: 620px;
+    display: flex;
+    margin-top: 30px;
+   
+    border: solid rgb(200, 195, 195);
+border-width: 3 3px;
+
+   
+}
+
+
+ /*  */
+.div3,.div4,.div5,.div6,.div7,.div8,.div9{
+
+    /* background-color: rgb(226, 43, 220); */
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+
+}
+.div8,.div4,.div6{
+ 
+    /* background-color: rgb(49, 226, 43); */
+    width: 100px;
+    border-radius: 10%;
+    height: 80px;
+}
+
+/*  */
+.div32,.div42,.div52,.div62,.div72,.div82,.div92{
+
+    background-color: rgb(226, 89, 43);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+.div82,.div42,.div62{
+ 
+    background-color: rgb(195, 249, 0);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+
+/*  */
+.div33,.div43,.div53,.div63,.div73,.div83,.div93{
+
+    background-color: rgb(43, 226, 89);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+.div83,.div43,.div63{
+ 
+    background-color: rgb(226, 43, 217);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+
+/*  */
+.div34,.div44,.div54,.div64,.div74,.div84,.div94{
+
+    background-color: rgb(226, 92, 43);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+.div84,.div44,.div64{
+ 
+    background-color: rgb(86, 2, 232);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+
+/*  */
+.div35,.div45,.div55,.div65,.div75,.div85,.div95{
+
+    background-color: rgb(43, 226, 110);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+.div85,.div45,.div65{
+ 
+    background-color: rgb(214, 43, 226);
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
